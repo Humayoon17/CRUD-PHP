@@ -39,8 +39,8 @@ This is just a simple CRUD application in PHP
 
 ## Screenshots
 ![](screenshot/login.png)
-![](screenshot/adduser.png)
 ![](screenshot/register.png)
+![](screenshot/adduser.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
