@@ -38,9 +38,9 @@ This is just a simple CRUD application in PHP
 
 
 ## Screenshots
-![Image of login](https://github.com/Humayoon17/CRUD-PHP/tree/master/screenshot/login.png)
-![Image of Register](https://github.com/Humayoon17/CRUD-PHP/tree/master/screenshot/register.png)
-![Image of Add user](https://github.com/Humayoon17/CRUD-PHP/tree/master/screenshot/adduser.png)
+![](screenshot/login.png)
+![](screenshot/adduser.png)
+![](screenshot/register.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
